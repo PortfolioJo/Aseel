@@ -1,0 +1,183 @@
+{
+  "user": {
+    "name_ar": "أسيل الزواهرة",
+    "name_en": "Aseel Alzawahreh",
+    "role_ar": "مطور Full-Stack",
+    "role_en": "Full-Stack Developer",
+    "tagline_ar": "متخصص في بناء لوحات تحكم وأدوات ذكية تساعد الشركات على فهم بياناتها واتخاذ قرارات أسرع",
+    "tagline_en": "Specialized in building dashboards and smart tools that help companies understand their data and make faster decisions",
+    "email": "aseeljalal45@gmail.com",
+    "github": "https://github.com/aseeljalal44-stack",
+    "whatsapp": "+962785094075",
+    "linkedin": ""
+  },
+  
+  "projects": [
+    {
+      "icon": "👔",
+      "title_ar": "لوحة تحكم الموارد البشرية الذكية",
+      "title_en": "Smart HR Analytics Dashboard",
+      "desc_ar": "نظام تفاعلي لمعالجة أي ملف Excel وتحويله إلى لوحة قيادة ذكية للموارد البشرية.",
+      "desc_en": "An intelligent HR system that transforms any Excel file into a smart HR analytics dashboard.",
+      "tags": ["HR", "Excel Automation", "KPI", "Field Detection"],
+      "url": "https://hrdashbord-28auw66gfafgeiav5vdnks.streamlit.app/",
+      "github_url": "https://github.com/aseeljalal44-stack"
+    },
+    {
+      "icon": "📈",
+      "title_ar": "لوحة تحليل المبيعات المتقدمة – نسخة المؤسسات",
+      "title_en": "Advanced Sales Analytics – Enterprise",
+      "desc_ar": "تحليل متقدم للبيانات المعقّدة مع اكتشاف تلقائي للحقول وتحليلات متمكّنة.",
+      "desc_en": "Advanced analytics for complex datasets with automatic field detection and deep KPI insights.",
+      "tags": ["Sales", "Enterprise", "Automation", "Excel"],
+      "url": "https://salesdashboards-bvbbbq6v7m9p7h7yrcwww2.streamlit.app/",
+      "github_url": "https://github.com/aseeljalal44-stack"
+    },
+    {
+      "icon": "🛍️",
+      "title_ar": "لوحة تحكم المبيعات الذكية – الإصدار السريع",
+      "title_en": "Smart Sales Dashboard – Lite",
+      "desc_ar": "نسخة خفيفة وسريعة لعرض المؤشرات الأساسية من ملفات Excel/CSV.",
+      "desc_en": "A lightweight, fast dashboard for essential KPIs using Excel/CSV uploads.",
+      "tags": ["Sales", "Lite", "Excel", "KPIs"],
+      "url": "https://salesdashboards.streamlit.app/",
+      "github_url": "https://github.com/aseeljalal44-stack"
+    }
+  ],
+  
+  "skills": {
+    "frontend": {
+      "title_ar": "تطوير الواجهات",
+      "title_en": "Frontend Development",
+      "icon": "fas fa-paint-brush",
+      "items": [
+        {"name": "HTML5", "desc_ar": "بناء الهيكل الأساسي", "desc_en": "Structure building", "icon": "fab fa-html5"},
+        {"name": "CSS3", "desc_ar": "التصميم والتنسيق", "desc_en": "Styling & layout", "icon": "fab fa-css3-alt"},
+        {"name": "JavaScript", "desc_ar": "التفاعلية والديناميكية", "desc_en": "Interactivity", "icon": "fab fa-js"},
+        {"name": "Bootstrap", "desc_ar": "إطار عمل متجاوب", "desc_en": "Responsive framework", "icon": "fab fa-bootstrap"}
+      ]
+    },
+    "backend": {
+      "title_ar": "تطوير الخلفية",
+      "title_en": "Backend Development",
+      "icon": "fas fa-server",
+      "items": [
+        {"name": "Python", "desc_ar": "برمجة الخوادم", "desc_en": "Server programming", "icon": "fab fa-python"},
+        {"name": "FastAPI", "desc_ar": "واجهات API سريعة", "desc_en": "Fast APIs", "icon": "fas fa-bolt"},
+        {"name": "Flask", "desc_ar": "إطار ويب خفيف", "desc_en": "Lightweight web framework", "icon": "fas fa-flask"}
+      ]
+    },
+    "data": {
+      "title_ar": "علوم البيانات",
+      "title_en": "Data Science",
+      "icon": "fas fa-chart-line",
+      "items": [
+        {"name": "Pandas", "desc_ar": "تحليل ومعالجة البيانات", "desc_en": "Data analysis", "icon": "fas fa-table"},
+        {"name": "NumPy", "desc_ar": "حسابات علمية", "desc_en": "Scientific computing", "icon": "fas fa-calculator"},
+        {"name": "Data Visualization", "desc_ar": "تصور البيانات", "desc_en": "Data visualization", "icon": "fas fa-chart-bar"}
+      ]
+    },
+    "tools": {
+      "title_ar": "أدوات التطوير",
+      "title_en": "Development Tools",
+      "icon": "fas fa-tools",
+      "items": [
+        {"name": "Git & GitHub", "desc_ar": "التحكم بالإصدارات", "desc_en": "Version control", "icon": "fab fa-git-alt"},
+        {"name": "Streamlit", "desc_ar": "لوحات التحكم التفاعلية", "desc_en": "Interactive dashboards", "icon": "fas fa-sliders-h"},
+        {"name": "VS Code", "desc_ar": "محرر النصوص", "desc_en": "Code editor", "icon": "fas fa-code"}
+      ]
+    }
+  },
+  
+  "services": {
+    "ar": [
+      {
+        "title": "هندسة لوحات التحكم",
+        "description": "تصميم وتطوير لوحات تحكم تفاعلية مخصصة للبيانات الضخمة",
+        "icon": "fas fa-chart-network",
+        "features": ["تصور بيانات تفاعلي", "تقارير لحظية", "تحليلات متقدمة"]
+      },
+      {
+        "title": "تطوير أدوات وحاسبات مخصصة",
+        "description": "أدوات تساعد الشركات على توفير وقت وجهد العمليات اليومية",
+        "icon": "fas fa-calculator",
+        "features": ["أدوات تلقائية", "حاسبات متخصصة", "تكامل مع الأنظمة"]
+      },
+      {
+        "title": "بناء صفحات هبوط وبورتفوليو",
+        "description": "تصاميم سريعة، متناسقة، جاهزة للإطلاق على GitHub أو السيرفر",
+        "icon": "fas fa-rocket",
+        "features": ["تصميم متجاوب", "تحسين SEO", "سرعة فائقة"]
+      }
+    ],
+    "en": [
+      {
+        "title": "Dashboard Engineering",
+        "description": "Design and development of custom interactive dashboards for big data",
+        "icon": "fas fa-chart-network",
+        "features": ["Interactive data visualization", "Real-time reports", "Advanced analytics"]
+      },
+      {
+        "title": "Custom Tools & Calculators",
+        "description": "Tools that help companies save time and effort in daily operations",
+        "icon": "fas fa-calculator",
+        "features": ["Automated tools", "Specialized calculators", "System integration"]
+      },
+      {
+        "title": "Landing Pages & Portfolio",
+        "description": "Fast, consistent designs ready to launch on GitHub or server",
+        "icon": "fas fa-rocket",
+        "features": ["Responsive design", "SEO optimization", "High speed"]
+      }
+    ]
+  },
+  
+  "translations": {
+    "ar": {
+      "about": "عنّي",
+      "skills": "المهارات",
+      "skills_title": "المهارات التقنية",
+      "projects": "المشاريع",
+      "projects_title": "أبرز المشاريع",
+      "contact": "تواصل",
+      "contact_title": "جاهز لبدء مشروعك؟",
+      "services": "الخدمات",
+      "services_title": "الخدمات المقدمة",
+      "availability": "التوافر",
+      "view_projects": "عرض المشاريع",
+      "contact_me": "تواصل معي",
+      "view_live": "عرض التطبيق",
+      "view_code": "عرض الكود",
+      "get_in_touch": "تواصل معي",
+      "available_for_projects": "متاح للمشاريع الجديدة",
+      "about_text": "أنا مطور برمجيات أركز على بناء أدوات ولوحات تحكم تساعد الأفراد والمتاجر على تحليل البيانات واتخاذ قرارات أسرع. خلال العام الأخير أنجزت أكثر من 10 أدوات، وجميع شغلي يعتمد على تصميم بسيط وتجربة واضحة وسرعة في التنفيذ.",
+      "email_label": "البريد الإلكتروني",
+      "whatsapp_label": "واتساب",
+      "github_label": "GitHub",
+      "send_message": "إرسال رسالة"
+    },
+    "en": {
+      "about": "About Me",
+      "skills": "Skills",
+      "skills_title": "Technical Skills",
+      "projects": "Projects",
+      "projects_title": "Featured Projects",
+      "contact": "Contact",
+      "contact_title": "Ready to Start Your Project?",
+      "services": "Services",
+      "services_title": "Services Offered",
+      "availability": "Availability",
+      "view_projects": "View Projects",
+      "contact_me": "Contact Me",
+      "view_live": "View App",
+      "view_code": "View Code",
+      "get_in_touch": "Get in Touch",
+      "available_for_projects": "Available for new projects",
+      "about_text": "I'm a software developer focused on building tools and dashboards that help individuals and businesses analyze data and make faster decisions. Over the past year, I've completed over 10 tools, and all my work is based on simple design, clear experience, and fast execution.",
+      "email_label": "Email Address",
+      "whatsapp_label": "WhatsApp",
+      "github_label": "GitHub",
+      "send_message": "Send Message"
+    }
+  }
+}
